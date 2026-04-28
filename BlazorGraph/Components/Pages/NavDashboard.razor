@@ -1,0 +1,26 @@
+﻿@page "/nav-dashboard"
+@rendermode InteractiveServer
+
+<h3>NAV Dashboard</h3>
+
+<NavChart Labels="@dates"
+          NavValues="@nav"
+          Purchases="@purchases" />
+
+@code {
+    private string[] dates =
+    {
+        "Jan 01","Jan 02","Jan 03","Jan 04","Jan 05","Jan 06"
+    };
+
+    private double[] nav =
+    {
+        100, 101.5, 102, 101.2, 103, 104
+    };
+
+    private List<NavChart.PurchasePoint> purchases = new()
+    {
+        new NavChart.PurchasePoint { Index = 1, Value = 101.5 },
+        new NavChart.PurchasePoint { Index = 4, Value = 103 }
+    };
+}
