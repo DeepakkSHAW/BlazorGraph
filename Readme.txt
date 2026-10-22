@@ -3,5 +3,8 @@ https://www.ebay.com.au/itm/800376319211?_trkparms=itmf%3D1%26aid%3D1110006%26rk
 https://www.iskconbhiwandi.org/bhadra-purnima-checkout?price=6900&bookDetails=%255B%257B%2522language%2522%253A%2522Hindi%2522%252C%2522quantity%2522%253A1%252C%2522price%2522%253A6900%252C%2522totalPrice%2522%253A6900%257D%255D
 
 -4444	Coles Card Payment
-1,247.00	
--3197	outstanding
+1,247.00	Rent from Kanooka
+700.00	Rent from Steven
+500.00	Rent from Steven
+-1997	outstanding
+
